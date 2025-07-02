@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skk>
+  <section name="server">
+    <key name="serv" value="1" />
+    <key name="host" value="localhost" />
+    <key name="port" value="1178" />
+    <key name="encoding" value="0" />
+    <key name="timeout" value="1000" />
+  </section>
+</skk>

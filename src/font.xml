@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skk>
+  <section name="font">
+    <key name="name" value="UDEV Gothic" />
+    <key name="size" value="12" />
+    <key name="weight" value="400" />
+    <key name="italic" value="0" />
+  </section>
+</skk>

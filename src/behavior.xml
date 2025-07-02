@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skk>
+  <section name="behavior">
+    <!-- 動作1タブ -->
+    <key name="defaultmode" value="0" />
+    <key name="defmodeascii" value="0" />
+    <key name="begincvokuri" value="1" />
+    <key name="precedeokuri" value="1" />
+    <key name="shiftnnokuri" value="0" />
+    <key name="srchallokuri" value="0" />
+    <key name="delcvposcncl" value="0" />
+    <key name="delokuricncl" value="1" />
+    <key name="backincenter" value="1" />
+    <key name="addcandktkn" value="1" />
+    <key name="entogglekana" value="0" />
+    <key name="setbydirect" value="0" />
+    <!-- 動作2タブ -->
+    <key name="compmultinum" value="5" />
+    <key name="stacompmulti" value="0" />
+    <key name="dynamiccomp" value="0" />
+    <key name="dyncompmulti" value="1" />
+    <key name="compuserdic" value="1" />
+    <key name="compincback" value="0" />
+  </section>
+</skk>

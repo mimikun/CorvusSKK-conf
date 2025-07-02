@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skk>
+  <section name="keymap">
+    <key name="kana" value="q" />
+    <key name="convchar" value="\cq" />
+    <key name="jlatin" value="L" />
+    <key name="ascii" value="l" />
+    <key name="jmode" value="" />
+    <key name="abbrev" value="/" />
+    <key name="affix" value="&lt;|>" />
+    <key name="nextcand" value="\x20" />
+    <key name="prevcand" value="S\x20" />
+    <key name="purgedic" value="X|\cx" />
+    <key name="nextcomp" value="\x09" />
+    <key name="prevcomp" value="S\x09" />
+    <key name="compcand" value="\cc" />
+    <key name="hint" value="" />
+    <key name="convpoint" value="" />
+    <key name="direct" value="[0-9]" />
+    <key name="enter" value="\cj" />
+    <key name="cancel" value="\cg|\x1B" />
+    <key name="back" value="\ch" />
+    <key name="delete" value="\cd|\x7F" />
+    <key name="void" value="" />
+    <key name="left" value="\cb" />
+    <key name="up" value="\ca" />
+    <key name="right" value="\cf" />
+    <key name="down" value="\ce" />
+    <key name="paste" value="\cy|\cv" />
+    <key name="reconvert" value="" />
+  </section>
+</skk>

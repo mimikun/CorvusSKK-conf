@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skk>
+  <section name="convpoint">
+    <list>
+      <row st="A" al="a" ok="a" />
+      <row st="B" al="b" ok="b" />
+      <row st="C" al="c" ok="c" />
+      <row st="D" al="d" ok="d" />
+      <row st="E" al="e" ok="e" />
+      <row st="F" al="f" ok="f" />
+      <row st="G" al="g" ok="g" />
+      <row st="H" al="h" ok="h" />
+      <row st="I" al="i" ok="i" />
+      <row st="J" al="j" ok="j" />
+      <row st="K" al="k" ok="k" />
+      <row st="L" al="l" ok="l" />
+      <row st="M" al="m" ok="m" />
+      <row st="N" al="n" ok="n" />
+      <row st="O" al="o" ok="o" />
+      <row st="P" al="p" ok="p" />
+      <row st="Q" al="q" ok="q" />
+      <row st="R" al="r" ok="r" />
+      <row st="S" al="s" ok="s" />
+      <row st="T" al="t" ok="t" />
+      <row st="U" al="u" ok="u" />
+      <row st="V" al="v" ok="v" />
+      <row st="W" al="w" ok="w" />
+      <row st="X" al="x" ok="x" />
+      <row st="Y" al="y" ok="y" />
+      <row st="Z" al="z" ok="z" />
+    </list>
+  </section>
+</skk>

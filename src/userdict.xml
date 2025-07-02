@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skk>
+  <section name="userdict">
+    <!-- ユーザー辞書バックアップ-ディレクトリ -->
+    <key name="backupdir" value="%APPDATA%\CorvusSKK" />
+    <!-- ユーザー辞書バックアップ-世代 -->
+    <key name="backupgen" value="7" />
+    <!-- プライベートモードON仮想キー(実キー: ???) -->
+    <key name="privateonvkey" value="0x79" />
+    <!-- プライベートモードON修飾キー( ☐ ALT ☑ CTRL ☑ SHIFT ) -->
+    <key name="privateonmkey" value="6" />
+    <!-- プライベートモードOFF仮想キー(実キー: ???) -->
+    <key name="privateoffvkey" value="0x79" />
+    <!-- プライベートモードOFF修飾キー( ☐ ALT ☑ CTRL ☑ SHIFT ) -->
+    <key name="privateoffmkey" value="6" />
+    <!-- 自動切替: ON -->
+    <key name="privatemodeauto" value="1" />
+  </section>
+</skk>
