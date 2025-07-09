@@ -2,6 +2,7 @@
 <skk>
   <section name="jlatin">
     <list>
+      <!-- ASCII | 全英 -->
       <row la=" " jl="　" />
       <row la="!" jl="！" />
       <row la="&quot;" jl="”" />

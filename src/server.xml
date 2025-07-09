@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <skk>
   <section name="server">
+    <!-- サーバー: ☑ 使用する -->
     <key name="serv" value="1" />
+    <!-- サーバー: ホスト -->
     <key name="host" value="localhost" />
+    <!-- サーバー: ポート -->
     <key name="port" value="1178" />
+    <!-- サーバー: ● EUC-JIS-2004 / EUC-JP ○ UTF-8 -->
     <key name="encoding" value="0" />
+    <!-- サーバー: タイムアウト -->
     <key name="timeout" value="1000" />
   </section>
 </skk>

@@ -17,27 +17,32 @@
     - 動作2
         - behavior.xmlの動作2部分
 - 表示1タブ
+    - font.xml
+        - フォント設定
 - 表示2タブ
-- ▽ 表示
-- ▼ 表示
-- 選択
-- キー0
-- キー1
-- キー2
-- 位置
-- 仮名
-- 全英
+- ▽ 表示タブ
+- ▼ 表示タブ
+- 選択タブ
+- キー0タブ
+- キー1タブ
+- キー2タブ
+    - vkeymap.xml
+        - キー設定(仮想キー)
+- 位置タブ
+    - convpoint.xml
+        - 変換位置指定
+- 仮名タブ
+    - kana.xml
+        - ローマ字・仮名変換表
+- 全英タブ
+    - jlatin.xml
+        - ASCII・全英変換表
 
 <!-- TODO: below -->
 
-- font.xml
 - display.xml
 - displayattr.xml
 - selkey.xml
 - preservedkeyon.xml
 - preservedkeyoff.xml
 - keymap.xml
-- vkeymap.xml
-- convpoint.xml
-- kana.xml
-- jlatin.xml

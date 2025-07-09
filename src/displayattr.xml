@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <skk>
+  <!-- ▽▼表示? -->
   <section name="displayattr">
     <key name="inputmark" value="0,0,0x000000,0,0xFFFFFF,2,0,0,0x000000,0" />
     <key name="inputtext" value="1,0,0x000000,0,0xFFFFFF,2,0,0,0x000000,0" />

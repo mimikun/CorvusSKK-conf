@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <skk>
   <section name="preservedkeyon">
+    <!-- キー設定: ON 仮想キー -->
     <list>
       <row vkey="0xC0" mkey="1" />
       <row vkey="0x19" mkey="0" />

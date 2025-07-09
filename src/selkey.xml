@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <skk>
   <section name="selkey">
+    <!-- 候補一覧選択キー: 数字|表示 予備1 予備2 -->
     <key name="1" value="ＡAa" />
     <key name="2" value="ＳSs" />
     <key name="3" value="ＤDd" />

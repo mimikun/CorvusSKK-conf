@@ -2,6 +2,7 @@
 <skk>
   <section name="kana">
     <list>
+      <!-- ローマ字 | かな | カナ | … -->
       <row ro="a" hi="あ" ka="ア" an="ア" so="0" />
       <row ro="i" hi="い" ka="イ" an="イ" so="0" />
       <row ro="u" hi="う" ka="ウ" an="ウ" so="0" />

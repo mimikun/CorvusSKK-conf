@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <skk>
   <section name="font">
+    <!-- フォント: 名前 -->
     <key name="name" value="UDEV Gothic" />
+    <!-- フォント: サイズ -->
     <key name="size" value="12" />
+    <!-- フォント: ウェイト -->
     <key name="weight" value="400" />
+    <!-- フォント: イタリック -->
     <key name="italic" value="0" />
   </section>
 </skk>

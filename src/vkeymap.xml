@@ -1,32 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <skk>
+  <!-- キー1: キー設定(仮想キー) -->
   <section name="vkeymap">
+    <!-- かな/カナ -->
     <key name="kana" value="" />
+    <!-- カナ全英変換 -->
     <key name="convchar" value="" />
+    <!-- 全英 -->
     <key name="jlatin" value="" />
+    <!-- ASCII -->
     <key name="ascii" value="" />
+    <!-- ひらがな -->
     <key name="jmode" value="C\x4A" />
+    <!-- abbrev -->
     <key name="abbrev" value="" />
+    <!-- 接辞 -->
     <key name="affix" value="" />
+    <!-- 次候補 -->
     <key name="nextcand" value="\x20" />
+    <!-- 前候補 -->
     <key name="prevcand" value="S\x20" />
+    <!-- 辞書削除 -->
     <key name="purgedic" value="" />
+    <!-- 次補完 -->
     <key name="nextcomp" value="\x09" />
+    <!-- 前補完 -->
     <key name="prevcomp" value="S\x09" />
+    <!-- 補完と変換 -->
     <key name="compcand" value="" />
+    <!-- 絞り込み -->
     <key name="hint" value="" />
+    <!-- 変換位置 -->
     <key name="convpoint" value="" />
+    <!-- 直接入力 -->
     <key name="direct" value="" />
+    <!-- 確定 -->
     <key name="enter" value="" />
+    <!-- 取消 -->
     <key name="cancel" value="" />
+    <!-- 後退 -->
     <key name="back" value="" />
+    <!-- 削除 -->
     <key name="delete" value="\x2E" />
+    <!-- *無効* -->
     <key name="void" value="C\x4A" />
+    <!-- 左移動 -->
     <key name="left" value="\x25" />
+    <!-- 先頭移動 -->
     <key name="up" value="\x26" />
+    <!-- 右移動 -->
     <key name="right" value="\x27" />
+    <!-- 末尾移動 -->
     <key name="down" value="\x28" />
+    <!-- 貼付 -->
     <key name="paste" value="" />
+    <!-- 再変換 -->
     <key name="reconvert" value="" />
   </section>
 </skk>

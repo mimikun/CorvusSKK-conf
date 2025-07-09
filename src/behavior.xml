@@ -1,25 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <skk>
   <section name="behavior">
-    <!-- 動作1タブ -->
+    <!-- NOTE: 動作1タブ: -->
+    <!-- ☑ 動作1: 初期入力モード -->
     <key name="defaultmode" value="0" />
+    <!-- ☑ 動作1: 初期入力モード: ◯ ひらがな ● ASCII -->
     <key name="defmodeascii" value="0" />
+    <!-- ☑ 動作1: 送り仮名が決定したとき変換を開始する -->
     <key name="begincvokuri" value="1" />
+    <!-- ☑ 動作1: 送り仮名が一致した候補を優先する -->
     <key name="precedeokuri" value="1" />
+    <!-- ☐ 動作1: 送り仮名で撥音を送り出す -->
     <key name="shiftnnokuri" value="0" />
+    <!-- ☐ 動作1: 送りあり変換で送りなし候補も表示する -->
     <key name="srchallokuri" value="0" />
+    <!-- ☐ 動作1: 取消のとき変換位置を削除する -->
     <key name="delcvposcncl" value="0" />
+    <!-- ☑ 動作1: 取消のとき送り仮名を削除する -->
     <key name="delokuricncl" value="1" />
+    <!-- ☑ 動作1: 後退に確定を含める -->
     <key name="backincenter" value="1" />
+    <!-- ☑ 動作1: 候補に片仮名変換を追加する -->
     <key name="addcandktkn" value="1" />
+    <!-- ☐ 動作1: かな/カナ入力モードをトグルする -->
     <key name="entogglekana" value="0" />
+    <!-- ☐ 動作1: キー設定「直接入力」を確定入力で使用する -->
     <key name="setbydirect" value="0" />
-    <!-- 動作2タブ -->
+    <!-- NOTE: 動作2タブ: -->
+    <!-- 動作2: 複数補完/複数動的補完の表示数 -->
     <key name="compmultinum" value="5" />
+    <!-- ☐ 動作2: 複数補完を使用する -->
     <key name="stacompmulti" value="0" />
+    <!-- ☐ 動作2: 動的補完を使用する -->
     <key name="dynamiccomp" value="0" />
+    <!-- ☑ 動作2: 複数動的補完を使用する -->
     <key name="dyncompmulti" value="1" />
+    <!-- ☑ 動作2: 補完された見出し語の候補を表示する -->
     <key name="compuserdic" value="1" />
+    <!-- ☐ 動作2: 前方一致と後方一致で補完する -->
     <key name="compincback" value="0" />
   </section>
 </skk>

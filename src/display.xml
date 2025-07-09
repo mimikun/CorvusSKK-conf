@@ -1,35 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <skk>
   <section name="display">
+    <!-- 表示1: 候補一覧の最大幅 -->
     <key name="maxwidth" value="320" />
+    <!-- 表示1: 候補一覧の色: 背景 -->
     <key name="colorbg" value="0xFFFFFF" />
+    <!-- 表示1: 候補一覧の色: 枠 -->
     <key name="colorfr" value="0x000000" />
+    <!-- 表示1: 候補一覧の色: 選択 -->
     <key name="colorse" value="0xFF0000" />
+    <!-- 表示1: 候補一覧の色: `:` -->
     <key name="colorco" value="0x808080" />
+    <!-- 表示1: 候補一覧の色: 候補 -->
     <key name="colorca" value="0x000000" />
+    <!-- 表示1: 候補一覧の色: `;` -->
     <key name="colorsc" value="0x808080" />
+    <!-- 表示1: 候補一覧の色: 注釈 -->
     <key name="coloran" value="0x808080" />
+    <!-- 表示1: 候補一覧の色: 番号 -->
     <key name="colorno" value="0x000000" />
+    <!-- 表示1: 候補一覧表示の描画API: ○ GDI ● Direct2D -->
     <key name="drawapi" value="1" />
+    <!-- 表示1: 候補一覧表示の描画API: ☑ 彩色 -->
     <key name="colorfont" value="1" />
+    <!-- 表示1: 候補一覧表示に要する変換回数(0は表示無し) -->
     <key name="untilcandlist" value="3" />
+    <!-- 表示1: 候補一覧表示のページ当たり候補数 -->
     <key name="pagecandnum" value="7" />
+    <!-- 表示1: ☐ 候補一覧が表示無しのとき候補数を表示する -->
     <key name="dispcandno" value="0" />
+    <!-- 表示1: ☑ 候補一覧を縦に表示する -->
     <key name="verticalcand" value="1" />
+    <!-- 表示1: ☑ 注釈を表示する -->
     <key name="annotation" value="1" />
+    <!-- 表示1: ☑ 注釈を表示する : ○ 全て ● 候補一覧 -->
     <key name="annotatlst" value="1" />
+    <!-- 表示1: ☐ ▽▼* マークを表示する -->
     <key name="showmodemark" value="0" />
+    <!-- 表示1: ☑ ローマ字を表示する -->
     <key name="showroman" value="1" />
+    <!-- 表示1: ☑ ローマ字を表示する : ● ASCII ○ 全英 -->
     <key name="showromanjlat" value="0" />
+    <!-- 表示2: ☑ 入力モードを表示する -->
     <key name="showmodeinl" value="1" />
+    <!-- 表示2: xxxx msec -->
     <key name="showmodeinltm" value="3000" />
+    <!-- 表示2: 入力モードの色: 文字 -->
     <key name="colormc" value="0xFFFFFF" />
+    <!-- 表示2: 入力モードの色: 枠 -->
     <key name="colormf" value="0x000000" />
+    <!-- 表示2: 入力モードの色: かな -->
     <key name="colorhr" value="0x0000C0" />
+    <!-- 表示2: 入力モードの色: カナ -->
     <key name="colorkt" value="0x00C000" />
+    <!-- 表示2: 入力モードの色: -カナ -->
     <key name="colorka" value="0xC00080" />
+    <!-- 表示2: 入力モードの色: 全英 -->
     <key name="colorjl" value="0xC00000" />
+    <!-- 表示2: 入力モードの色: ASCII -->
     <key name="colorac" value="0xC08000" />
+    <!-- 表示2: 入力モードの色: 直接 -->
     <key name="colordr" value="0x808080" />
   </section>
 </skk>

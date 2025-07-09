@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <skk>
+  <!-- SKK辞書 -->
   <section name="dictionary">
     <list>
       <row path="https://skk-dev.github.io/dict/SKK-JISYO.L.gz" enabled="1" />

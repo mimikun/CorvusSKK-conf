@@ -2,6 +2,7 @@
 <skk>
   <section name="convpoint">
     <list>
+      <!-- 開始 | 代替 | 送り -->
       <row st="A" al="a" ok="a" />
       <row st="B" al="b" ok="b" />
       <row st="C" al="c" ok="c" />
